@@ -1,0 +1,22 @@
+{
+  "python": {
+    "What is polymorphism?": "Polymorphism in Python refers to the ability of different objects to respond to the same method call in their own way. It allows functions or objects to be used interchangeably if they share a common interface.",
+    "Explain the difference between a list and a tuple.": "A list is mutable, meaning its elements can be changed after creation, and it is defined using square brackets. A tuple is immutable, meaning its elements cannot be changed, and it is defined using parentheses.",
+    "What are decorators in Python?": "Decorators are a very powerful and useful tool in Python since it allows programmers to modify the behavior of a function or class. They allow us to wrap another function in order to extend the behavior of the wrapped function, without permanently modifying it."
+  },
+  "dbms": {
+    "What is normalization?": "Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. It involves dividing large tables into smaller, related tables and defining relationships between them.",
+    "Explain the difference between SQL and NoSQL.": "SQL databases are relational, table-based, and use structured query language with a predefined schema. NoSQL databases are non-relational, can be document-based, key-value pairs, or graph databases, and have dynamic schemas for unstructured data.",
+    "What are ACID properties?": "ACID stands for Atomicity, Consistency, Isolation, and Durability. These properties ensure that database transactions are processed reliably and safely, guaranteeing data validity despite errors or failures."
+  },
+  "ml": {
+    "What is the bias-variance tradeoff?": "The bias-variance tradeoff is a fundamental problem in supervised learning. Bias is the error from erroneous assumptions in the learning algorithm, leading to underfitting. Variance is the error from sensitivity to small fluctuations in the training set, leading to overfitting. The tradeoff involves balancing these two to minimize total error.",
+    "Explain how a Random Forest works.": "A Random Forest is an ensemble learning method that operates by constructing a multitude of decision trees at training time. For classification, it outputs the class that is the mode of the classes of the individual trees. It uses bagging and feature randomness when building each individual tree to try to create an uncorrelated forest of trees.",
+    "What is the difference between supervised and unsupervised learning?": "Supervised learning uses labeled data to train models to predict outcomes, where the algorithm learns from input-output pairs. Unsupervised learning uses unlabeled data, and the algorithm tries to find hidden structures, patterns, or groupings within the data without pre-existing labels."
+  },
+  "hr": {
+    "Tell me about a time you overcame a challenge.": "A good answer should use the STAR method (Situation, Task, Action, Result) to describe a specific challenge, the actions taken to address it, and the positive outcome or learning experience.",
+    "What are your greatest strengths and weaknesses?": "Strengths should be relevant to the role and supported by examples. Weaknesses should be real but accompanied by actionable steps being taken to improve upon them.",
+    "Where do you see yourself in 5 years?": "The answer should reflect career ambition, alignment with the company's goals, and a desire to take on more responsibility, learn new skills, and contribute meaningfully to the organization."
+  }
+}
